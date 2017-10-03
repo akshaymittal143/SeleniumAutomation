@@ -11,9 +11,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Ripon on 11/18/2015.
- */
+
 public class WaitForComponentExampleTest {
     private WebDriver driver;
     private String googleBaseURL;
@@ -41,6 +39,7 @@ public class WaitForComponentExampleTest {
     public void shouldWaitForPageToLoad1(){
         navigateToGoogleSearchPage();
     }
+
     public void shouldWaitForPageToLoad2(){
         navigateToGoogleSearchPage();
         try {
@@ -49,6 +48,7 @@ public class WaitForComponentExampleTest {
             e.getMessage();
         }
     }
+
     public void shouldWaitForPageToLoad3(){
         navigateToGoogleSearchPage();
         WebDriverWait wait = new WebDriverWait(driver, 10);

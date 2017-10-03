@@ -10,9 +10,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Ripon on 11/15/2015.
- */
+
 public class CheckboxesExampleTest {
     private WebDriver driver;
 
