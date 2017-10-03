@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: com.packtpub.mastering.selenium.RunCukesTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 18.461 sec <<< FAILURE!
+Then I should see the title "Mastering Selenium Testing Tools"       Time elapsed: 0.002 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Mastering Selenium Testing Tools]> but was:<[Test Design Considerations — Selenium Documentation]>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at com.packtpub.mastering.selenium.steps.SeleniumAdvancedDocumentationStepDefs.I_should_see_the_title(SeleniumAdvancedDocumentationStepDefs.java:62)
+	at ?.Then I should see the title "Mastering Selenium Testing Tools"(com\packtpub\mastering\selenium\AdvancedDocumentation.feature:9)
+
+Scenario: Selenium Page Object Design Pattern    Time elapsed: 0.007 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Mastering Selenium Testing Tools]> but was:<[Test Design Considerations — Selenium Documentation]>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at com.packtpub.mastering.selenium.steps.SeleniumAdvancedDocumentationStepDefs.I_should_see_the_title(SeleniumAdvancedDocumentationStepDefs.java:62)
+	at ?.Then I should see the title "Mastering Selenium Testing Tools"(com\packtpub\mastering\selenium\AdvancedDocumentation.feature:9)
+
