@@ -95,6 +95,26 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="MultipleWindowsExampleTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter3_8/src/test/java/packt/selenium/chap3_8_advancedwebdriver/MultipleWindowsExampleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SelectExampleTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter3_8/src/test/java/packt/selenium/chap3_8_advancedwebdriver/SelectExampleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="43" column="57" lean-forward="false" selection-start-line="43" selection-start-column="57" selection-end-line="43" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ScreenShotExampleTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter3_8/src/test/java/packt/selenium/chap3_8_advancedwebdriver/ScreenShotExampleTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,7 +127,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ScreenShotRule.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ScreenShotRule.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter3_8/src/test/java/packt/selenium/chap3_8_advancedwebdriver/ScreenShotRule.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
@@ -158,6 +178,7 @@
         <option value="$PROJECT_DIR$/Chapter3_8/src/test/java/packt/selenium/chap3_8_advancedwebdriver/CheckboxesExampleTest.java" />
         <option value="$PROJECT_DIR$/Chapter3_8/src/test/java/packt/selenium/chap3_8_advancedwebdriver/ScreenShotRule.java" />
         <option value="$PROJECT_DIR$/Chapter3_8/src/test/java/packt/selenium/chap3_8_advancedwebdriver/ScreenShotExampleTest.java" />
+        <option value="$PROJECT_DIR$/Chapter3_8/src/test/java/packt/selenium/chap3_8_advancedwebdriver/SelectExampleTest.java" />
       </list>
     </option>
   </component>
@@ -528,7 +549,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24360341" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22974414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -724,14 +745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter3_8/src/test/java/packt/selenium/chap3_8_advancedwebdriver/CheckboxesExampleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter3_8/src/test/java/packt/selenium/chap3_8_advancedwebdriver/ScreenShotExampleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -746,6 +759,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3_8/src/test/java/packt/selenium/chap3_8_advancedwebdriver/CheckboxesExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3_8/src/test/java/packt/selenium/chap3_8_advancedwebdriver/SelectExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="43" column="57" lean-forward="false" selection-start-line="43" selection-start-column="57" selection-end-line="43" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3_8/src/test/java/packt/selenium/chap3_8_advancedwebdriver/MultipleWindowsExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
           <folding />
         </state>
       </provider>

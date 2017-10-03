@@ -12,9 +12,7 @@ import org.openqa.selenium.support.ui.Select;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Ripon on 11/15/2015.
- */
+
 public class SelectExampleTest {
     private WebDriver driver;
     List<WebElement> options;
