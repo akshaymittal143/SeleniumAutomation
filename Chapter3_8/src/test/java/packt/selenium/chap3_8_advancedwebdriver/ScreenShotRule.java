@@ -8,9 +8,6 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import java.io.FileOutputStream;
 
-/**
- * Created by Ripon on 11/15/2015.
- */
 public class ScreenShotRule implements MethodRule {
     private WebDriver driver;
     public ScreenShotRule(WebDriver driver){

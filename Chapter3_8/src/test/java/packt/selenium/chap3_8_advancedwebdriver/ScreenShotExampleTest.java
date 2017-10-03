@@ -7,9 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Ripon on 11/15/2015.
- */
+
 public class ScreenShotExampleTest {
     private static WebDriver driver;
     @BeforeClass
@@ -29,9 +27,10 @@ public class ScreenShotExampleTest {
 
     @Test
     public void linkedInRegistrationShouldFail() {
-        driver.findElement(By.id("first-name")).sendKeys("Ripon");//Correct ID for First name
-        //driver.findElement(By.id("last-name")).sendKeys("Al Wasim");//Correct ID for Last name
-        driver.findElement(By.id("lastname")).sendKeys("Al Wasim");//Incorrect ID for Last name
+
+        driver.findElement(By.id("first-name")).sendKeys("Akshay");//Correct ID for First name
+
+        driver.findElement(By.id("lastname")).sendKeys("Mittal");//Incorrect ID for Last name
         System.out.println("It should fail");
     }
 }
