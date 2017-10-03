@@ -5,9 +5,7 @@ import org.openqa.selenium.WebDriver;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Ripon on 11/4/2015.
- */
+
 public class SeleniumHQ {
     private WebDriver driver;
     private String baseUrl;

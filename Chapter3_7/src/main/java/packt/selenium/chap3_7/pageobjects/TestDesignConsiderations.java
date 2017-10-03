@@ -3,9 +3,7 @@ package packt.selenium.chap3_7.pageobjects;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-/**
- * Created by Ripon on 11/14/2015.
- */
+
 public class TestDesignConsiderations {
     private WebDriver driver;
 

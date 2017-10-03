@@ -12,9 +12,7 @@ import packt.selenium.chap3_7.pageobjects.TestDesignConsiderations;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Ripon on 11/4/2015.
- */
+
 public class TestDesignConsiderationsTest {
     private WebDriver driver;
     private SeleniumHQ seleniumHQ;

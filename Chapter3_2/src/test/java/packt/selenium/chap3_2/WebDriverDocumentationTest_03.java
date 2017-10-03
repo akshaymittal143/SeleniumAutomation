@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import static org.junit.Assert.assertEquals;
 
-public class WebDriverDocumentationTest_03 {
+0public class WebDriverDocumentationTest_03 {
 
     public static void main(String... args){
         WebDriver driver = new FirefoxDriver();
