@@ -112,8 +112,8 @@
       <file leaf-file-name="GoogleSearchPage.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter3_9/src/main/java/packt/selenium/chap3_9/pageobjects/GoogleSearchPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="119">
+              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -609,6 +609,7 @@
       <path value="$PROJECT_DIR$/Chapter3_9" />
       <path value="$PROJECT_DIR$/Chapter6_2" />
       <path value="$PROJECT_DIR$/temperature-converter" />
+      <path value="$PROJECT_DIR$" />
     </ignored-roots>
   </component>
   <component name="XDebuggerManager">
@@ -876,8 +877,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter3_9/src/main/java/packt/selenium/chap3_9/pageobjects/GoogleSearchPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="119">
+          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
           <folding />
         </state>
       </provider>
