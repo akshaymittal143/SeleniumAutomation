@@ -10,9 +10,6 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Ripon on 11/15/2015.
- */
 public class XPathExampleTest {
     private WebDriver driver;
 
