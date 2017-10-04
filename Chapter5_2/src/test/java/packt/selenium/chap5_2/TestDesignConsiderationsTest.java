@@ -17,9 +17,6 @@ import packt.selenium.chap5_2.pageobjects.TestDesignConsiderations;
 import java.net.URL;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Ripon on 11/4/2015.
- */
 public class TestDesignConsiderationsTest {
     private WebDriver driver;
     private SeleniumHQ seleniumHQ;
@@ -29,8 +26,8 @@ public class TestDesignConsiderationsTest {
     @Before
     public void setUp() throws Exception {
         //driver = new FirefoxDriver();
-        //URL url = new URL("http://localhost:4444/wd/hub");
-        URL url = new URL("http://riponalwasim:2b46e5fa-36a2-4554-bbf6-01b8b7d58edc@ondemand.saucelabs.com:80/wd/hub");
+        URL url = new URL("http://localhost:4444/wd/hub");
+      //  URL url = new URL("http://riponalwasim:2b46e5fa-36a2-4554-bbf6-01b8b7d58edc@ondemand.saucelabs.com:80/wd/hub");
         Capabilities capabilities = DesiredCapabilities.firefox();
         driver = new RemoteWebDriver(url, capabilities);
 
