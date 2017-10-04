@@ -1,0 +1,19 @@
+*.class
+
+# Package Files #
+target
+*.jar
+*.war
+*.ear
+*.idea
+*.iml
+*.ipr
+*.iws
+
+# Eclipse IDE specific files #
+.settings
+.classpath
+.project
+
+# JRebel related files #
+rebel.xml
