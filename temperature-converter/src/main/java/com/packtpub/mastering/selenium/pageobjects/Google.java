@@ -5,9 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-/**
- * Created by Ripon on 11/28/2015.
- */
+
 public class Google {
     private WebDriver driver;
     private String baseURL;

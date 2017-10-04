@@ -14,9 +14,6 @@ import java.util.concurrent.TimeUnit;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
 
-/**
- * Created by Ripon on 11/26/2015.
- */
 public class ConversionStepDefs {
     private WebDriver driver;
     public Google googlePage;
