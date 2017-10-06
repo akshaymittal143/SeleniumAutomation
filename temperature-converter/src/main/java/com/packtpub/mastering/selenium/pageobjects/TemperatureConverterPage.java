@@ -3,9 +3,7 @@ package com.packtpub.mastering.selenium.pageobjects;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-/**
- * Created by Ripon on 11/28/2015.
- */
+
 public class TemperatureConverterPage {
     private WebDriver driver;
     public TemperatureConverterPage(WebDriver driver){
